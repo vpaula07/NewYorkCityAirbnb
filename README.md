@@ -1,6 +1,6 @@
 # NewYorkCityAirbnb
 
-![](img/NYC.jpg)
+![](img/NYC2.jpg)
 
 # Problema de negócio
 
