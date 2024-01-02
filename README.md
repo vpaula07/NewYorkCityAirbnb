@@ -22,6 +22,8 @@ A renomada empresa de aluguel de espaços, chamada Airbnb precisa expandir seus 
 
 **Qual a distribuição do número de Reviews? Existem imóveis com muitos e outro com poucos reviews?**
 
+**Entre outros...**
+
 # Conjunto de Dados
 
 O conjunto de dados está disponível na plataforma kaggle([https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
